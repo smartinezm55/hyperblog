@@ -1,2 +1,2 @@
 # hyperblog
-aun blog para el curso de GIT
+Este es un blog para el curso de GIT
