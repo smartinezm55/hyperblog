@@ -1,4 +1,7 @@
 *.jpg
 
 #Carpetas
-carpeta/carpeta
+carpeta/
+
+#excepciones 
+!carpeta/configuracion
